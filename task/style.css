@@ -1,0 +1,450 @@
+body{ 
+    background-color: rgb(250, 248, 248);  
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+  
+}
+.logo{
+    position: relative;
+    display: flex;
+    align-items: center;
+    left: 40px;
+    gap: 7px;
+}
+nav {
+    position: relative;
+    display: flex;
+    align-items: center;
+    
+    gap: 20px;
+}
+.btn {position: relative;
+    display: flex;
+    align-items: center;
+    
+    gap: 20px;
+}
+.login{background-color: #FFFFFF;
+    color:#FA7436;
+    border: #FA7436;
+}
+.signup{
+    background-color: #FA7436;
+    width: 80px;
+    height: 25px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: #FA7436;
+    border: none;
+   font-size: 16px;
+}
+.para1{
+         position: relative;
+    top: 150px;
+   width: 200px;
+    padding: 40px;
+}
+.highlight{
+    color:#FA7436;
+}
+.para2{
+   position: relative;
+ top: 100px;
+ width: 200px;
+  padding: 40px;
+}
+.image1{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    position: relative;
+    bottom: 350px;
+}
+.Discover-btn {
+    padding: 40px;
+}
+.Discover
+{  position:relative;
+    top: 100px;
+    background-color: #FFFFFF;
+    border: 2px solid #FA7436;
+    width: 178px;
+    height: 60px;
+    color: #FA7436;
+    border-radius: 5px;
+   font-size: 20px;
+}
+.two{
+    display: flex;
+    align-items: center;
+
+    max-width: 1170px;
+    max-height: 114px;
+}
+.herobox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+justify-content: space-between;
+background-color: #FFFFFF;
+padding: 10px;
+position: relative;
+width: 841px;
+height: 124px;
+left: 300px;
+bottom: 150px;
+margin-top: auto;
+
+}
+.Explore{
+    background-color: #FA7436;
+    color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: #FA7436;
+    border: #FA7436;
+   font-size: 16px;
+    width: 165px;
+    height: 60px;
+}
+.para11{
+position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+bottom: 100px;
+}
+.para22{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 130px;
+    bottom: 150px;
+}
+.highlight1{
+    color:#FA7436;
+}
+
+
+.box {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10px;
+    position: relative;
+    bottom: 100px;
+    
+}
+#box1{
+ display: flex;
+   background-color:  #ffffffe5;
+width: 370px;
+height: 278px;
+border: 1px solid #FFFFFF;
+}
+.group{
+    padding: 20px;
+}
+.signup1{
+    display: flex;
+    position: relative;
+    padding: 10px;
+    right: 80px ;
+    top : 120px
+}
+.all{  
+    display:flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    position: relative;
+    right: 150px;
+}
+#box2{
+     display: flex;
+    background-color:#ffffffe5 ;
+    width: 370px;
+height: 278px;
+border: 1px solid #FFFFFF;
+}
+.vallet{
+    padding: 20px;
+}
+.money{
+display: flex; 
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 210px;
+    position: relative;
+   
+    right:  80px;
+    top : 150px
+}
+.After{
+    display: flex; 
+    justify-content: flex-start;
+    align-items: flex-end;
+    position: relative;
+    right: 250px;
+width: 300px;
+ top : 200px}
+#box3{
+    background-color: #ffffffe5;
+    width: 370px;
+height: 278px;
+border: 1px solid #FFFFFF;
+}
+.navi{
+    padding: 20px;
+}
+.exciting{   
+    display: flex;
+    position: relative;
+    padding: 10px;
+    top : 50px
+}
+.start{
+    display: flex;
+    position: relative;
+    left: 10px;
+    top : 50px}
+.high{
+    color:#FA7436;
+}
+.exclusivedeals{
+    position: relative;
+    width: 1920px;
+    height: 960px;
+}
+#exclusive{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    position: relative;
+    right: 200px;
+    
+    }
+#fantastic{
+    position: relative;
+    right: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px;
+    position: relative;
+    left: 50px;
+    
+    width:1170px ;
+    height: 426px; 
+}
+.inner-card1{position: relative; 
+    width: 270px;
+    height: 426px;
+}
+
+.inner-card2{position: relative;
+    width: 270px;
+    height: 426px;
+}
+
+
+.inner-card3{
+    position: relative;
+    width: 270px;
+    height: 426px;
+}
+.inner-card4
+{
+    position: relative;
+    width: 270px;
+    height: 426px;
+}
+.vacation{display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    position: relative;
+    width: 1920px ;
+    height: 893px ;
+}
+.vacationplan{
+        display: flex;
+        justify-content: center;    
+        align-items: center;
+        position: relative;
+        bottom: 650px;
+        left: 100px;
+    }
+    .plan{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0%;
+        position: relative;
+        bottom: 600px;
+        right: 300px;
+        
+    }
+    #highlight4
+    {
+        color:#FA7436;
+    }
+    .card-container1{
+        display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px;
+    position: relative;
+    left: 50px;
+    bottom: 1000px;
+    width:1170px ;
+    height: 426px; ;
+         }
+         .testimoni{display: flexbox;
+            justify-content: center;
+            position: relative;
+            bottom: 900px;
+            width: 1920px;
+            height: 596px;
+            
+         }
+        .testi{
+            
+            font-size: x-large;
+            position: relative;
+            padding: 10px;
+        left: 50px;
+        
+        }
+        .highlight5{
+            color:#FA7436;
+        }
+        .zbox-container{
+            display: flex;
+            justify-content: end;
+            gap: 10px;
+            position: relative;
+            right: 300px;
+            bottom: 200px;
+        }
+        .zbox1{ background-color: #FFFFFF;
+            position: relative;
+            width:340px ;
+            height:279 ;
+            z-index: 30;
+            right: 350px;
+            bottom: 20px;
+
+        }
+        .zbox2{position: absolute;
+            background-color: #f3eaea;
+            width:340px ;
+            height:279 ;
+            z-index: 10;
+            right: 300px;
+            top: 150px;
+        }
+        .latest{
+            position: relative;
+            bottom: 1000px;
+        }
+        .updates{
+            font-size: x-large;
+            display: flex;
+            justify-content: center;
+            margin: 30px;
+        } 
+        #highlight6{
+            color:#FA7436;
+        }
+        .card-container2{
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+        }
+        .subscribe-box{
+            text-align: center;
+            color: #FFFFFF;
+            background-color: #FA7436;
+            border-radius: 10px;
+            display: flexbox;
+            justify-content: center;
+            margin: auto;
+            position: relative;
+            
+            width:1170px ;
+            height:416px ;
+            bottom: 800px;
+        }
+        .smallbox{
+            background-color: #FFFFFF;
+            color:gray;
+            
+            display: flex;
+        justify-content: center;
+        align-content: end;
+        
+        margin: auto;
+        border-radius: 5px;
+        position: relative;
+        top: 150px;
+        width:674px ;
+        height:68px ;
+
+        }
+        .sub{
+            display: flex;
+            justify-items: end;
+            justify-content: center;
+            align-items: center;
+            margin: auto;
+            margin-right: 20px;
+            background-color: #FA7436;
+            color: #FFFFFF;
+            border-color: #FA7436;
+            border-radius: 5px;
+            position: relative;
+            width:132px ;
+            height: 50px; ;
+        }
+        .bordr{
+            position: relative;
+            bottom: 550px;
+            left: 10px;
+            width: 1170px;
+        }
+        .foot{
+            display: flex;
+            justify-content: space-evenly;
+            position: relative;
+            bottom: 650px;
+            }
+        .LogoTB{display: flex;
+        gap: 5px;}
+        .TB{display: flexbox;
+        position: relative;
+    width: 240px;
+height: 176px;
+left: 20px;}
+.last{display: flex;
+    
+justify-content: space-between;
+position: relative;
+bottom: 550px;
+left: 180px;
+width:1172px ;
+height: 24px;
+}
